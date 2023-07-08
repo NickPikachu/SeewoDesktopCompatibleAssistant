@@ -1,0 +1,2 @@
+# SeewoDesktopCompatibleAssistant
+让第五代希沃教育一体机可以运行第六代希沃桌面的一键兼容程序。
